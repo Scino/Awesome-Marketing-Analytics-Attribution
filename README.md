@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Analytics-Attribution/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Analytics-Attribution?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Marketing-Analytics-Attribution/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Analytics-Attribution?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Marketing-Analytics-Attribution/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Marketing-Analytics-Attribution?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Marketing-Analytics-Attribution/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Marketing-Analytics-Attribution?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Marketing-Analytics-Attribution/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -67,66 +67,66 @@ The sector is **moderately to highly fragmented**: while enterprise cloud giants
 
 ## 💻 Open-Source GitHub Projects 🛠️
 
-Sorted descending by GitHub star count:
+Sorted descending by GitHub Stars_Count:
 
-- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+- **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
   🦔 Open-source product analytics, event-based multi-touch tracking, session recording, feature flags, and conversion funnel analysis platform built for self-hosting.
 
-- **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
+- **[Matomo](https://github.com/matomo-org/matomo)** [![GitHub_Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers)  
   🔒 Leading open-source web and digital marketing analytics platform with full data ownership, campaign tracking, multi-channel conversion attribution, and Google Analytics replacement capabilities.
 
-- **[Snowplow](https://github.com/snowplow/snowplow)** [![GitHub stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers)  
+- **[Snowplow](https://github.com/snowplow/snowplow)** [![GitHub_Stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers)  
   ❄️ Enterprise-grade behavioral data pipeline that generates high-fidelity first-party customer event streams into Snowflake, BigQuery, and Databricks for custom multi-touch journey attribution.
 
-- **[Jitsu](https://github.com/jitsucom/jitsu)** [![GitHub stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers)  
+- **[Jitsu](https://github.com/jitsucom/jitsu)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers)  
   🔄 Open-source data ingestion engine and Segment alternative designed for streaming marketing touchpoints and clickstream data directly into analytical data warehouses.
 
-- **[RudderStack Server](https://github.com/rudderlabs/rudder-server)** [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
+- **[RudderStack Server](https://github.com/rudderlabs/rudder-server)** [![GitHub_Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
   ⛵ Warehouse-native customer data platform (CDP) and event collection infrastructure for capturing marketing interactions across apps and routing to attribution databases.
 
-- **[Open Web Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics)** [![GitHub stars](https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=social&color=white)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/stargazers)  
+- **[Open Web Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=social&color=white)](https://github.com/Open-Web-Analytics/Open-Web-Analytics/stargazers)  
   🌐 Open-source web analytics software framework (PHP/MySQL) providing visitor tracking, campaign referrals, e-commerce transaction tracking, and clickstream logging.
 
-- **[Orbit](https://github.com/uber/orbit)** [![GitHub stars](https://img.shields.io/github/stars/uber/orbit?style=social&color=white)](https://github.com/uber/orbit/stargazers)  
+- **[Orbit](https://github.com/uber/orbit)** [![GitHub_Stars](https://img.shields.io/github/stars/uber/orbit?style=social&color=white)](https://github.com/uber/orbit/stargazers)  
   🪐 Uber's open-source Python package for Bayesian time series forecasting and marketing mix modeling, incorporating Bayesian Structural Time Series (BSTS) with additive priors.
 
-- **[Google Meridian](https://github.com/google/meridian)** [![GitHub stars](https://img.shields.io/github/stars/google/meridian?style=social&color=white)](https://github.com/google/meridian/stargazers)  
+- **[Google Meridian](https://github.com/google/meridian)** [![GitHub_Stars](https://img.shields.io/github/stars/google/meridian?style=social&color=white)](https://github.com/google/meridian/stargazers)  
   🧭 Google's Bayesian Marketing Mix Modeling (MMM) framework in Python; models media channel incrementality, reach and frequency, adstock, and saturation curves.
 
-- **[Robyn (Meta)](https://github.com/facebookexperimental/Robyn)** [![GitHub stars](https://img.shields.io/github/stars/facebookexperimental/Robyn?style=social&color=white)](https://github.com/facebookexperimental/Robyn/stargazers)  
+- **[Robyn (Meta)](https://github.com/facebookexperimental/Robyn)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn?style=social&color=white)](https://github.com/facebookexperimental/Robyn/stargazers)  
   🤖 Meta's experimental automated Marketing Mix Modeling (MMM) engine (R and Python); uses ridge regression with multi-objective hyperparameter evolutionary optimization (Nevergrad) for multi-channel calibration.
 
-- **[PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing)** [![GitHub stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing?style=social&color=white)](https://github.com/pymc-labs/pymc-marketing/stargazers)  
+- **[PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing)** [![GitHub_Stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing?style=social&color=white)](https://github.com/pymc-labs/pymc-marketing/stargazers)  
   🐍 Open-source Bayesian marketing measurement library in Python; unifies Bayesian Marketing Mix Modeling (MMM), Customer Lifetime Value (CLV) models, and experiment-informed calibration.
 
-- **[LightweightMMM (Google)](https://github.com/google/lightweight_mmm)** [![GitHub stars](https://img.shields.io/github/stars/google/lightweight_mmm?style=social&color=white)](https://github.com/google/lightweight_mmm/stargazers)  
+- **[LightweightMMM (Google)](https://github.com/google/lightweight_mmm)** [![GitHub_Stars](https://img.shields.io/github/stars/google/lightweight_mmm?style=social&color=white)](https://github.com/google/lightweight_mmm/stargazers)  
   📦 Google's lightweight Bayesian Marketing Mix Modeling library built on top of JAX and NumPyro (predecessor framework to Meridian for media spend optimization).
 
-- **[DP6 Marketing Attribution Models](https://github.com/DP6/Marketing-Attribution-Models)** [![GitHub stars](https://img.shields.io/github/stars/DP6/Marketing-Attribution-Models?style=social&color=white)](https://github.com/DP6/Marketing-Attribution-Models/stargazers)  
+- **[DP6 Marketing Attribution Models](https://github.com/DP6/Marketing-Attribution-Models)** [![GitHub_Stars](https://img.shields.io/github/stars/DP6/Marketing-Attribution-Models?style=social&color=white)](https://github.com/DP6/Marketing-Attribution-Models/stargazers)  
   📐 Python library for digital marketing attribution; implements first-touch, last-touch, linear, position-based, time-decay, and Markov chain attribution algorithms.
 
-- **[mta](https://github.com/eeghor/mta)** [![GitHub stars](https://img.shields.io/github/stars/eeghor/mta?style=social&color=white)](https://github.com/eeghor/mta/stargazers)  
+- **[mta](https://github.com/eeghor/mta)** [![GitHub_Stars](https://img.shields.io/github/stars/eeghor/mta?style=social&color=white)](https://github.com/eeghor/mta/stargazers)  
   🎲 Python package for multi-touch attribution analysis in digital marketing; supports rule-based models, Markov chains (removal effects), Shapley values, and survival analysis models.
 
-- **[LEO CDP](https://github.com/trieu/leo-cdp-framework)** [![GitHub stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers)  
+- **[LEO CDP](https://github.com/trieu/leo-cdp-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers)  
   🦁 Open-source AI-first Customer Data Platform (CDP) with real-time Customer 360, ML-based segmentation, behavioral tracking, and omnichannel customer journey mapping.
 
-- **[MultiTouch-Attribution-Marketing-Spend-Optimization](https://github.com/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization)** [![GitHub stars](https://img.shields.io/github/stars/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization?style=social&color=white)](https://github.com/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization/stargazers)  
+- **[MultiTouch-Attribution-Marketing-Spend-Optimization](https://github.com/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization)** [![GitHub_Stars](https://img.shields.io/github/stars/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization?style=social&color=white)](https://github.com/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization/stargazers)  
   🎯 Multi-touch attribution and marketing spend optimization pipeline implementing Markov chains and Shapley values with constrained non-linear optimization for budget allocation.
 
-- **[Attributor](https://github.com/Crynge/Attributor)** [![GitHub stars](https://img.shields.io/github/stars/Crynge/Attributor?style=social&color=white)](https://github.com/Crynge/Attributor/stargazers)  
+- **[Attributor](https://github.com/Crynge/Attributor)** [![GitHub_Stars](https://img.shields.io/github/stars/Crynge/Attributor?style=social&color=white)](https://github.com/Crynge/Attributor/stargazers)  
   ⚙️ Go-based multi-touch attribution and media mix modeling engine; implements Shapley value attribution, Markov chain removal effects, Bayesian MMM fitting, and budget simulation CLI/API.
 
-- **[Marketing Data Hub](https://github.com/Bhargava-R-dev/marketing-data-hub)** [![GitHub stars](https://img.shields.io/github/stars/Bhargava-R-dev/marketing-data-hub?style=social&color=white)](https://github.com/Bhargava-R-dev/marketing-data-hub/stargazers)  
+- **[Marketing Data Hub](https://github.com/Bhargava-R-dev/marketing-data-hub)** [![GitHub_Stars](https://img.shields.io/github/stars/Bhargava-R-dev/marketing-data-hub?style=social&color=white)](https://github.com/Bhargava-R-dev/marketing-data-hub/stargazers)  
   🦆 Unified local marketing data pipeline that pulls GA4, Google Search Console, Google Ads, and Meta Ads into DuckDB, with REST API, CSV exports, and Claude MCP server integration.
 
-- **[pyattrscore](https://github.com/ucmani/pyattrscore)** [![GitHub stars](https://img.shields.io/github/stars/ucmani/pyattrscore?style=social&color=white)](https://github.com/ucmani/pyattrscore/stargazers)  
+- **[pyattrscore](https://github.com/ucmani/pyattrscore)** [![GitHub_Stars](https://img.shields.io/github/stars/ucmani/pyattrscore?style=social&color=white)](https://github.com/ucmani/pyattrscore/stargazers)  
   ⚽ Python attribution modeling package covering heuristic models (first-touch, last-touch, linear, U-shaped, decay) and a novel role-based "football" attribution archetype model.
 
-- **[Kafka Real-Time Attribution](https://github.com/mizcausevic-dev/kafka-real-time-attribution)** [![GitHub stars](https://img.shields.io/github/stars/mizcausevic-dev/kafka-real-time-attribution?style=social&color=white)](https://github.com/mizcausevic-dev/kafka-real-time-attribution/stargazers)  
+- **[Kafka Real-Time Attribution](https://github.com/mizcausevic-dev/kafka-real-time-attribution)** [![GitHub_Stars](https://img.shields.io/github/stars/mizcausevic-dev/kafka-real-time-attribution?style=social&color=white)](https://github.com/mizcausevic-dev/kafka-real-time-attribution/stargazers)  
   ⚡ Java and Kafka Streams-based real-time multi-touch attribution engine modeling click, session, and conversion events as an immutable ledgered stream for replay-safe credit assignment.
 
-- **[causal-mmm-mta-platform](https://github.com/Crynge/causal-mmm-mta-platform)** [![GitHub stars](https://img.shields.io/github/stars/Crynge/causal-mmm-mta-platform?style=social&color=white)](https://github.com/Crynge/causal-mmm-mta-platform/stargazers)  
+- **[causal-mmm-mta-platform](https://github.com/Crynge/causal-mmm-mta-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/Crynge/causal-mmm-mta-platform?style=social&color=white)](https://github.com/Crynge/causal-mmm-mta-platform/stargazers)  
   🔬 Research platform and reference implementation combining Bayesian Marketing Mix Modeling (adstock, saturation), Multi-Touch Attribution, and causal graph discovery.
 
 ---
@@ -137,7 +137,7 @@ Contributions to make this ecosystem index comprehensive are welcome!
 
 1. 🍴 **Fork the repo**.
 2. ✍️ **Add or edit entries** in `README.md` adhering to the table or listed format.
-3. 📝 **Include**: product/repo name, official link, star badge (for open-source), 1–2 sentence description, and pricing/scale details.
+3. 📝 **Include**: product/repo name, official link, Stars_Badge (for open-source), 1–2 sentence description, and pricing/scale details.
 4. 🚀 **Submit PR** with a concise explanation.
 
 ---
