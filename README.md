@@ -67,7 +67,7 @@ The sector is **moderately to highly fragmented**: while enterprise cloud giants
 
 ## 💻 Open-Source GitHub Projects 🛠️
 
-Sorted descending by GitHub Stars_Count:
+Sorted descending by GitHub_Stars_Count:
 
 - **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
   🦔 Open-source product analytics, event-based multi-touch tracking, session recording, feature flags, and conversion funnel analysis platform built for self-hosting.
